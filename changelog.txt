@@ -1,0 +1,36 @@
+Version: 0.1.0
+Date: 14. 8. 2020
+  Changes:
+    - Hard fork from the "Automatic Coupler 0.16" mod
+    - Changed prototypes/signals.lua to reflect updated naming conventions in base mod
+    - Resized signal graphics to reflect new high-resolution graphics
+    - Updated to permit loading in 1.0 
+  Known issues:
+    - Signal graphics are available at 64x64 only and do not have pre-rendered mipmaps
+---------------------------------------------------------------------------------------------------
+Version: 0.16.6
+Date: 14. 10. 2018
+  Changes:
+    - Changed code slightly again², this time it should make the mod compatible with all other mods that change trains. As long as the carriage type is locomotive, it will work. Credit goes to Daelin.
+---------------------------------------------------------------------------------------------------
+Version: 0.16.5
+Date: 29. 9. 2018
+  Changes:
+    - Changed code slightly again, this time it should add compatibility with the Yuoki Railway mod. Credit goes to Daelin.
+    - Changed to better versioning system.
+    - Added this changelog (hopefully).
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 27. 9. 2018
+  Changes:
+    - Changed code slightly that should make the mod compatible with Bob's trains. Credit goes to SWATim.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 14. 6. 2018
+  Changes:
+    - Fixed a dumb, overlooked naming bug
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 14. 6. 2018
+  Info:
+    - Initial release for 0.16

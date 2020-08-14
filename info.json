@@ -1,0 +1,8 @@
+{
+	"name": "Signalized_Couplers",
+	"version": "0.1.0",
+	"title": "Signalized Couplers",
+	"author": "Hopewelljnj-bitbased-Timmiej93-digital_pet",
+	"description": "Adds signals to allow stations to couple/uncouple trains automatically.",
+	"factorio_version": "1.0"
+}
